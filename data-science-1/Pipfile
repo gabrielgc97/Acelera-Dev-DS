@@ -65,7 +65,7 @@ ipython_genutils = "==0.2.0"
 Jinja2 = "==2.10.1"
 MarkupSafe = "==1.1.1"
 prometheus_client = "==0.6.0"
-Pygments = "==2.4.2"
+Pygments = "==2.7.4"
 Send2Trash = "==1.5.0"
 
 [requires]
